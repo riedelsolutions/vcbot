@@ -20,4 +20,4 @@ async def on_voice_state_update(member, before, after):
         role = discord.utils.get(member.guild.roles, name="vc")
         await member.remove_roles(role)
 
-client.run("Njk5NzI2MjY1ODQ1ODA5MjIz.XpYmgg.SY6nnlnnQ4Z4cq5YTyO5DgTlitY")
+client.run("BOT_TOKEN")

@@ -2,4 +2,4 @@
 CHANNEL_NAME = "general"
 
 # The bot token
-BOT_TOKEN = "Njk5NzI2MjY1ODQ1ODA5MjIz.XpYmgg.SY6nnlnnQ4Z4cq5YTyO5DgTlitY"
+BOT_TOKEN = "BOT_TOKEN"
