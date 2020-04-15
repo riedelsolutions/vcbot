@@ -10,9 +10,8 @@ async def on_ready():
    
 @client.event
 async def on_voice_state_update(member, before, after):
-    #guild = discord.Guild
-    #await guild.create_role(name="vc")
-    
+    guild = member.guild
+    await guild.create_role(name="vc")
     if not before.channel and after.channel:
         role = discord.utils.get(member.guild.roles, name="vc")
         await member.add_roles(role)
