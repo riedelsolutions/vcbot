@@ -1,8 +1,0 @@
-{
-    "name": "VCbot",
-    "version": "1.0.0",
-    "description": "Assign a @vc role for people currently in voice channels.",
-    "main": "main.py",
-    "author": "riedel",
-    "dependencies": {}
-    }
