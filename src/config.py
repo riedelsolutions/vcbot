@@ -2,4 +2,11 @@
 CHANNEL_NAME = "general"
 
 # The bot token
-BOT_TOKEN = "BOT_TOKEN"
+BOT_TOKEN = "[BOT_TOKEN]"
+
+#role
+ROLE_NAME = "vc"
+
+#owner id
+
+OWNER_ID = [OWNER_ID]
